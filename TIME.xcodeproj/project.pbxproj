@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					99D0278E1DDF3E91003DBD22 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = KSUN9V96TU;
 						ProvisioningStyle = Automatic;
 					};
 					99D027A51DDF3E91003DBD22 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KSUN9V96TU;
 				INFOPLIST_FILE = TIME/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.abe.TIME;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KSUN9V96TU;
 				INFOPLIST_FILE = TIME/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.abe.TIME;
